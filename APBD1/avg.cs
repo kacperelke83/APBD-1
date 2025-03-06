@@ -12,7 +12,7 @@ namespace APBD1
         static void Main()
         {
             int[] values = { 1, 2, 3, 4, 5 };
-            Console.WriteLine("AVG change: " + CalculateAverage(values));
+            Console.WriteLine("AVG change2 " + CalculateAverage(values));
             Console.WriteLine("change!");
         }
 
